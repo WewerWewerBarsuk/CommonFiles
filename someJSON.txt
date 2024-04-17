@@ -1,0 +1,11 @@
+{"vacancies":
+	[{
+	"accommodation_capability":false, 
+    "busy_type":"Полная занятость",
+	"career_perspective":false,
+	"change_time":"2024-03-05T09:27:05+0300",
+	"code_profession":"166757",
+	"code_professional_sphere":"Medicine",
+	"code_professional_sphere_lc":"medicine",
+	}]
+}		

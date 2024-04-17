@@ -1,0 +1,22 @@
+Parser - JSON
+
+a_jobname - vacancy_name
+a_specialization - professionalSphereName
+a_inn - inn
+a_ogrn - ogrn
+a_kpp - kpp
+a_cname - name
+a_education - education
+a_experience - required_experience
+a_shedule - schedule_type
+a_employment - busy_type
+a_salarymin - salary_min
+a_salarymax - salary_max
+a_vac_url - vac_url
+a_createdate - date_create
+code_profession - code_profession
+vacancy_address - vacancy_address
+work_places - work_places
+c_date - date_modify
+original_source_type - original_source_type
+

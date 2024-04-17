@@ -1,0 +1,5 @@
+I need program what can viewer JSON file.
+I found in Internet that Notepad++ can do this.
+I download and install Notepad+++ and added plugin needed to reself this task.
+But my JSON files is so big so my operation system has frozen after i trying open JSON file in Notepad++.
+Now my need viewer for designed big JSON files. I try seek it's viewer in the Internet.
