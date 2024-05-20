@@ -1,1 +1,4 @@
 ConsoleAppJSONtoExcel
+
+I stopped learn on page:
+https://learn.microsoft.com/en-gb/dotnet/csharp/tour-of-csharp/tutorials/list-collection

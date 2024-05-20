@@ -1,0 +1,2 @@
+Computer hardware - comprises the physical parts of a computer.
+Software - is the set of instruction that can be store and run by hardware.
