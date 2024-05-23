@@ -1,0 +1,5 @@
+Windows:
+	Command-line shell:
+		systeminfo - displays detailed configuration information about a computer and its operating system.
+		tasklist - displays a list of current running processes
+		taskkill - end one or more tasks or process.
